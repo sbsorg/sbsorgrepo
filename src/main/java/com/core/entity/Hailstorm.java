@@ -7,7 +7,8 @@ public class Hailstorm {
 
     public Hailstorm(){
         //added constructor to test if developer can push to develop,release,main branches
-        //Testing again, as to why the the push did not do a web-PR notofication or email
+        //Testing again, as to why the push did not do a web-PR notofication or email
     }
+
 
 }
